@@ -28,6 +28,5 @@ After cleaning, the following analyses were performed:
 ## Technologies Used
 *   Python
 *   pandas (for data manipulation)
-*   seaborn and matplotlib (for data analysis)
 *   matplotlib.pyplot (for data visualization)
 *   seaborn (for enhanced data visualization)
